@@ -1,5 +1,4 @@
 # FinalCaseStudy_CS7
-Final Bootcamp Case Study- CS7 
 
 The primary issue revolves around the challenge faced by bank officials in effectively targeting the 
 appropriate individuals for a successful campaign. This requires the marketing team to meticulously 
