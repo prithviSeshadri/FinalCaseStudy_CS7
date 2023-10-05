@@ -1,0 +1,9 @@
+{
+	"name": "casestudy7df",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e0e823af-ef26-4034-8cee-b9ebe6c2b792",
+		"tenantId": "dce87315-8ffa-4a01-ab40-0de5a7214b2f"
+	}
+}
